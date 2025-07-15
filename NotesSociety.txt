@@ -1,0 +1,17 @@
+Day-20
+==========================================
+22/30 days coding challenge (31-12-24).
+===========================================
+NotesSociety
+================================================
+NotesSociety link: https://notessociety.netlify.app/
+
+=======================================================
+follow on WhatsApp group by website..
+https://chat.whatsapp.com/IbFLOvxqw5I9opfiS0PCg4
+============================================================
+"New Year Animation Effect" 
+
+The provided code is an interactive New Year animation effect for a webpage, combining HTML, CSS, and JavaScript. The design features an animated "2025" message, glowing effects, and interactions that change the visual elements when clicked.
+===================================================
+
